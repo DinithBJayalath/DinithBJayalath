@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @DinithBJayalath
-- 👀 I’m interested in Machine Learning and specifically in ML in fintech and energy industries
-- 🌱 I’m currently learning Python, ML, and more.
+- 👀 I’m interested in Machine Learning, specifically in ML in the fintech and energy industries
+- 🌱 I’m currently learning Python, GO, ML, and more.
 
 
 <!---
